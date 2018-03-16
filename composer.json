@@ -1,0 +1,17 @@
+{
+    "name": "zackyjack/advance-ai-sdk", 
+    "description": "A PHP SDK for Advance.AI",
+    "keywords": ["advance", "ai", "advance.ai", "sdk"],
+    "type": "package",
+    "license": "MIT",
+    "authors": [{
+        "name": "Zackky Muhammad", 
+        "email": "m.zackky@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Zackyjack\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
